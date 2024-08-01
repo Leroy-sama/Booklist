@@ -1,24 +1,24 @@
 {
-  "book": [
-    {
-      "id": 1,
-      "title": "River and the source",
-      "Username": "Willigers Rono"
-    },
-    {
-      "id": 2,
-      "title": "Thunder",
-      "Username": "Masai Alex"
-    },
-    {
-      "id": 3,
-      "title": "Race book",
-      "Username": " Nickson lagat"
-    },
-    {
-      "id": 4,
-      "title": "Kigogo",
-      "Username": " Linus Rono"
-    }
-  ]
+	"books": [
+		{
+			"id": 1,
+			"title": "River and the source",
+			"Username": ["Willigers Rono", "John"]
+		},
+		{
+			"id": 2,
+			"title": "Thunder",
+			"Username": ["Masai Alex", "charlie"]
+		},
+		{
+			"id": 3,
+			"title": "Race book",
+			"Username": ["Nickson lagat", "Steve", "Kibet"]
+		},
+		{
+			"id": 4,
+			"title": "Kigogo",
+			"Username": ["Linus Rono", "lorem ipsum"]
+		}
+	]
 }
